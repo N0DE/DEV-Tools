@@ -1,0 +1,1507 @@
+********************************************************************
+*
+* Execution date: Thu Mar 29 16:20:25 MEST 2012
+* Testcase executed by: xmohirs
+* Originating host: ws027-23
+* Target host: ws027-23 
+* Binary properties:
+* -rwxr-xr-x   1 xmohirs  design   196054340 Mar 29 16:19 /workarea/sdp/xmohirs/sdp/master/build/ttcn/_build/SunOS_i386_sol7/testobjects/bin/CIPIP
+*
+********************************************************************
+
+2012/Mar/29 16:19:54.641530 mtc - Test case tc_CS50_CIPIP_OfferDrivenRating_STD_8514_Select_Higher_Prio_Offer_When_TimeOfDay_Condition_Get_Valid started.
+2012/Mar/29 16:19:54.672354 mtc - --- Create and activation request sent for licensed feature / PC:
+2012/Mar/29 16:19:54.672470 mtc - "MultiplePurchaseOfProducts"
+2012/Mar/29 16:19:54.674246 mtc - "UsageCounterAndThresholdLicense"
+2012/Mar/29 16:19:54.674299 mtc - "TimerChargingIntegratedLicensed"
+2012/Mar/29 16:19:54.674368 mtc - "OfferDrivenRating"
+2012/Mar/29 16:19:54.674435 mtc - "SCAPChargingContextOverCIPIP"
+2012/Mar/29 16:19:54.702222 mtc - Creating measurement
+2012/Mar/29 16:19:54.760573 4 - setverdict(pass): none -> pass
+2012/Mar/29 16:19:54.762786 4 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:19:54.780612 4 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:19:54.780685 4 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:19:54.782460 4 - Final verdict of PTC: pass
+2012/Mar/29 16:19:54.782633 mtc - setverdict(pass): none -> pass
+2012/Mar/29 16:19:54.787780 mtc - Executing FDSReadConfigTool on colocated host
+2012/Mar/29 16:20:00.683372 mtc - Executing FDSReadConfigTool Finished
+2012/Mar/29 16:20:00.769734 5 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:00.771061 5 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:00.795108 5 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.795181 5 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.795355 5 - Final verdict of PTC: pass
+2012/Mar/29 16:20:00.795510 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.820370 6 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:00.821812 6 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:00.850924 6 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.851027 6 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.851175 6 - Final verdict of PTC: pass
+2012/Mar/29 16:20:00.851393 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.917897 7 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:00.919169 7 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:00.949974 7 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.950043 7 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.950164 7 - Final verdict of PTC: pass
+2012/Mar/29 16:20:00.950353 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.973786 8 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:00.974919 8 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:00.999597 8 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.999682 8 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:00.999798 8 - Final verdict of PTC: pass
+2012/Mar/29 16:20:00.999941 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.077557 9 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:01.079259 9 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:01.101823 9 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.101927 9 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.102112 9 - Final verdict of PTC: pass
+2012/Mar/29 16:20:01.102236 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.121457 10 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:01.122598 10 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:01.147227 10 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.147327 10 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.147468 10 - Final verdict of PTC: pass
+2012/Mar/29 16:20:01.147641 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.172704 11 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:01.174065 11 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:01.383632 11 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.383731 11 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.383865 11 - Final verdict of PTC: pass
+2012/Mar/29 16:20:01.384076 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.395682 mtc - "<?xml version='1.0' encoding='ISO-8859-1' standalone='no'?>\n<Request MO=\"UsageThresholdDefinition\" Operation=\"Create\" Origin=\"GUI\">\n<UsageThresholdDefinition ID=\"101\">\n<UsageCounterDefinition ID=\"101\"></UsageCounterDefinition>\n<Description>Description of UT 101</Description>\n<DefaultValue>5000000000</DefaultValue>\n<MaxLimitHandling>0</MaxLimitHandling>\n</UsageThresholdDefinition>\n</Request>\n"
+2012/Mar/29 16:20:01.428939 12 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:01.431180 12 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:01.647511 12 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.647665 12 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.647833 12 - Final verdict of PTC: pass
+2012/Mar/29 16:20:01.648010 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.648227 mtc - "<?xml version='1.0' encoding='ISO-8859-1' standalone='no'?>\n<Request MO=\"UsageThresholdDefinition\" Operation=\"Create\" Origin=\"GUI\">\n<UsageThresholdDefinition ID=\"102\">\n<UsageCounterDefinition ID=\"101\"></UsageCounterDefinition>\n<Description>Description of UT 102</Description>\n<DefaultValue>25000000000</DefaultValue>\n<MaxLimitHandling>0</MaxLimitHandling>\n</UsageThresholdDefinition>\n</Request>\n"
+2012/Mar/29 16:20:01.698740 13 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:01.699902 13 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:01.915969 13 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.916097 13 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:01.916209 13 - Final verdict of PTC: pass
+2012/Mar/29 16:20:01.919550 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.080624 14 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:02.081769 14 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:02.304830 14 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.304939 14 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.305061 14 - Final verdict of PTC: pass
+2012/Mar/29 16:20:02.305231 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.472836 15 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:02.474839 15 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:02.557935 15 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.558018 15 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.558145 15 - Final verdict of PTC: pass
+2012/Mar/29 16:20:02.558351 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.601052 16 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:02.602380 16 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:02.871713 16 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.871802 16 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.871925 16 - Final verdict of PTC: pass
+2012/Mar/29 16:20:02.872114 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:02.983417 17 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:02.984648 17 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:03.031483 17 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:03.031549 17 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:03.031662 17 - Final verdict of PTC: pass
+2012/Mar/29 16:20:03.031838 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:03.058587 18 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:03.059857 18 - Timeout operation on timer t_guard : The timer is not started.
+2012/Mar/29 16:20:03.093551 18 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:03.093655 18 - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:03.093833 18 - Final verdict of PTC: pass
+2012/Mar/29 16:20:03.094001 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:03.094220 mtc - Executing FDSReadConfigTool on colocated host
+2012/Mar/29 16:20:04.776756 mtc - Executing FDSReadConfigTool Finished
+2012/Mar/29 16:20:04.859194 mtc - getverdict: pass
+2012/Mar/29 16:20:04.890421 19 - Connected successfully to the Port Mapper
+2012/Mar/29 16:20:04.923842 19 - Registration to PortMapper successful
+2012/Mar/29 16:20:04.924015 19 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:04.924210 19 - Closed connection to the Port Mapper
+2012/Mar/29 16:20:04.924586 19 - Connected succesfully to the server
+2012/Mar/29 16:20:05.027687 19 - Matching on port SDPAM_PCO : Type of the first message in the queue is not @SDPAM_Types.SDPAM_Packet.
+2012/Mar/29 16:20:05.027985 20 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #1
+
+2012/Mar/29 16:20:05.028671 20 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:05.057806 20 - f_SDPAM_Client_Transactions: Message sent on SDPAM_PCO: 
+{
+  request_create_52 := {
+    default_header := {
+      version := 52,
+      CUST_TEL_NO := "9352001",
+      origin_node_type := "SDP",
+      origin_node_id := "ws027-23",
+      transaction_id := "94939575849667722970",
+      transaction_date_time := "2012-03-29T16:20:04+02:00"
+    },
+    operation := "CREATE",
+    blocks := {
+      {
+        block_subscriber_req := {
+          service_class := 9999,
+          temp_blocked := "CLEAR",
+          sdp_language := omit,
+          ussd_eocn_selection_id := omit,
+          account_home_region := omit,
+          account_group_id := omit,
+          service_offerings := omit,
+          account_time_zone := omit
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:05.094700 19 - RPC data sent: "version=52\r\nCUST_TEL_NO=9352001\r\norigin_node_type=SDP\r\norigin_node_id=ws027-23\r\ntransaction_id=94939575849667722970\r\ntransaction_date_time=2012-03-29T16:20:04+02:00\r\noperation=CREATE\r\nBlock=Subscriber\r\nservice_class=9999\r\ntemp_blocked=CLEAR\r\n"
+2012/Mar/29 16:20:05.910100 20 - f_SDPAM_Client_Transactions: Message received on SDPAM_PCO: 
+{
+  succ_response_create_52 := {
+    default_header := {
+      response_date_time := "2012-03-29T16:20:05+02:00"
+    },
+    blocks := omit
+  }
+}
+2012/Mar/29 16:20:05.911564 20 - CLIENT_END_OF_TRANSACTION=PASS
+
+Sub test case #2
+
+2012/Mar/29 16:20:05.911601 20 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:05.935889 20 - f_SDPAM_Client_Transactions: Message sent on SDPAM_PCO: 
+{
+  request_update_52 := {
+    default_header := {
+      version := 52,
+      CUST_TEL_NO := "9352001",
+      origin_node_type := "SDP",
+      origin_node_id := "ws027-23",
+      transaction_id := "84710278598942272372",
+      transaction_date_time := "2012-03-29T16:20:04+02:00"
+    },
+    origin_operator_id := omit,
+    operation := "UPDATE",
+    reason := omit,
+    transaction_code := omit,
+    transaction_type := omit,
+    currency := 0,
+    duplicating_CDR_node := omit,
+    blocks := {
+      {
+        block_accountbalance_req := {
+          a_action := "ADD",
+          amount := "100000"
+        }
+      },
+      {
+        block_lifecycledates_req := {
+          sfee_exp_date_old := "",
+          sfee_exp_date_new := "2012-04-08",
+          credit_clearance_grace_period := omit,
+          sup_exp_date_old := "",
+          sup_exp_date_new := "2012-04-10",
+          serv_removal_grace_period := omit
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:05.942470 19 - RPC data sent: "version=52\r\nCUST_TEL_NO=9352001\r\norigin_node_type=SDP\r\norigin_node_id=ws027-23\r\ntransaction_id=84710278598942272372\r\ntransaction_date_time=2012-03-29T16:20:04+02:00\r\noperation=UPDATE\r\ncurrency=0\r\nBlock=AccountBalance\r\naction=ADD\r\namount=100000\r\nBlock=LifeCycleDates\r\nsfee_exp_date_old=\r\nsfee_exp_date_new=2012-04-08\r\nsup_exp_date_old=\r\nsup_exp_date_new=2012-04-10\r\n"
+2012/Mar/29 16:20:06.033361 20 - f_SDPAM_Client_Transactions: Message received on SDPAM_PCO: 
+{
+  succ_response_update_52 := {
+    default_header := {
+      response_date_time := "2012-03-29T16:20:05+02:00"
+    },
+    master := "9352001",
+    currency := 0,
+    flags_before := "00000000",
+    flags_after := "10000000",
+    blocks := {
+      {
+        block_accountbalance_resp := {
+          new_account_balance := "100000",
+          new_aggregated_balance := omit,
+          amount_added := omit,
+          neg_balance_barring_date := omit
+        }
+      },
+      {
+        block_lifecycledates_resp := {
+          activation_date := "2012-03-29"
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:06.033590 20 - CLIENT_END_OF_TRANSACTION=PASS
+
+Sub test case #3
+
+2012/Mar/29 16:20:06.033626 20 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:06.046341 20 - f_SDPAM_Client_Transactions: Message sent on SDPAM_PCO: 
+{
+  request_update_52 := {
+    default_header := {
+      version := 52,
+      CUST_TEL_NO := "9352001",
+      origin_node_type := "SDP",
+      origin_node_id := "ws027-23",
+      transaction_id := "19611119193124501613",
+      transaction_date_time := "2012-03-29T16:20:04+02:00"
+    },
+    origin_operator_id := omit,
+    operation := "UPDATE",
+    reason := omit,
+    transaction_code := omit,
+    transaction_type := omit,
+    currency := omit,
+    duplicating_CDR_node := omit,
+    blocks := {
+      {
+        block_offer_req := {
+          offer_members := {
+            {
+              offer_id := 10,
+              offer_product_id := omit,
+              action_offer := omit,
+              offer_expiry_date_old := omit,
+              offer_expiry_date_new := omit,
+              expiry_pam_period_indicator := omit,
+              offer_start_date_old := omit,
+              offer_start_date_new := omit,
+              start_pam_period_indicator := omit,
+              current_time_offset := omit,
+              offer_expiry_datetime_old := omit,
+              offer_expiry_datetime_new := "20120329T17:19:54+0200",
+              offer_start_datetime_old := omit,
+              offer_start_datetime_new := "20120329T16:19:54+0200",
+              offer_type := 2,
+              offer_pam_service_id := omit,
+              offer_provider_id_old := omit,
+              offer_provider_id_new := omit,
+              offer_dedicated_members := omit
+            },
+            {
+              offer_id := 20,
+              offer_product_id := omit,
+              action_offer := omit,
+              offer_expiry_date_old := omit,
+              offer_expiry_date_new := omit,
+              expiry_pam_period_indicator := omit,
+              offer_start_date_old := omit,
+              offer_start_date_new := omit,
+              start_pam_period_indicator := omit,
+              current_time_offset := omit,
+              offer_expiry_datetime_old := omit,
+              offer_expiry_datetime_new := "20120329T17:19:54+0200",
+              offer_start_datetime_old := omit,
+              offer_start_datetime_new := "20120329T16:19:54+0200",
+              offer_type := 2,
+              offer_pam_service_id := omit,
+              offer_provider_id_old := omit,
+              offer_provider_id_new := omit,
+              offer_dedicated_members := omit
+            },
+            {
+              offer_id := 10,
+              offer_product_id := omit,
+              action_offer := omit,
+              offer_expiry_date_old := omit,
+              offer_expiry_date_new := omit,
+              expiry_pam_period_indicator := omit,
+              offer_start_date_old := omit,
+              offer_start_date_new := omit,
+              start_pam_period_indicator := omit,
+              current_time_offset := omit,
+              offer_expiry_datetime_old := omit,
+              offer_expiry_datetime_new := "20120329T17:19:54+0200",
+              offer_start_datetime_old := omit,
+              offer_start_datetime_new := "20120329T16:19:54+0200",
+              offer_type := 2,
+              offer_pam_service_id := omit,
+              offer_provider_id_old := omit,
+              offer_provider_id_new := omit,
+              offer_dedicated_members := omit
+            }
+          }
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:06.057469 19 - RPC data sent: "version=52\r\nCUST_TEL_NO=9352001\r\norigin_node_type=SDP\r\norigin_node_id=ws027-23\r\ntransaction_id=19611119193124501613\r\ntransaction_date_time=2012-03-29T16:20:04+02:00\r\noperation=UPDATE\r\nBlock=Offer\r\noffer_id=10\r\noffer_expiry_datetime_new=20120329T17:19:54+0200\r\noffer_start_datetime_new=20120329T16:19:54+0200\r\noffer_type=2\r\noffer_id=20\r\noffer_expiry_datetime_new=20120329T17:19:54+0200\r\noffer_start_datetime_new=20120329T16:19:54+0200\r\noffer_type=2\r\noffer_id=10\r\noffer_expiry_datetime_new=20120329T17:19:54+0200\r\noffer_start_datetime_new=20120329T16:19:54+0200\r\noffer_type=2\r\n"
+2012/Mar/29 16:20:06.113360 20 - f_SDPAM_Client_Transactions: Message received on SDPAM_PCO: 
+{
+  succ_response_update_52 := {
+    default_header := {
+      response_date_time := "2012-03-29T16:20:06+02:00"
+    },
+    master := "9352001",
+    currency := 0,
+    flags_before := "10000000",
+    flags_after := "10000000",
+    blocks := {
+      {
+        block_offer_resp := {
+          offer_members := {
+            {
+              offer_id := 10,
+              offer_product_id := 1,
+              offer_expiry_date := omit,
+              offer_start_date := omit,
+              offer_expiry_datetime := "20120329T17:19:54+0200",
+              offer_start_datetime := "20120329T16:19:54+0200",
+              offer_type := 2,
+              offer_state := 1,
+              offer_pam_service_id := omit,
+              offer_provider_id := omit,
+              offer_dedicated_members := omit
+            },
+            {
+              offer_id := 20,
+              offer_product_id := 2,
+              offer_expiry_date := omit,
+              offer_start_date := omit,
+              offer_expiry_datetime := "20120329T17:19:54+0200",
+              offer_start_datetime := "20120329T16:19:54+0200",
+              offer_type := 2,
+              offer_state := 1,
+              offer_pam_service_id := omit,
+              offer_provider_id := omit,
+              offer_dedicated_members := omit
+            },
+            {
+              offer_id := 10,
+              offer_product_id := 3,
+              offer_expiry_date := omit,
+              offer_start_date := omit,
+              offer_expiry_datetime := "20120329T17:19:54+0200",
+              offer_start_datetime := "20120329T16:19:54+0200",
+              offer_type := 2,
+              offer_state := 1,
+              offer_pam_service_id := omit,
+              offer_provider_id := omit,
+              offer_dedicated_members := omit
+            }
+          }
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:06.113678 20 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:06.114926 mtc - Stopping SDPAM mapping component
+2012/Mar/29 16:20:06.115094 20 - f_SDPAM_Client_Transactions: Number of successful messages, 3 (3)
+2012/Mar/29 16:20:06.115203 20 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:06.115306 20 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:08.115370 20 - f_DisconnectMapping: WARNING. Timeout waiting for 'DISCONNECT_OK'.
+2012/Mar/29 16:20:09.098190 21 - f_initSCTPConnection is starting, port =3868 (CIP Client)
+2012/Mar/29 16:20:09.122340 mtc - getverdict: pass
+2012/Mar/29 16:20:09.208174 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.208382 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.213946 21 - Info: SCTP connection association change received.
+2012/Mar/29 16:20:09.214010 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.214052 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.254670 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:09.259357 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.259443 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.259453 22 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #4
+
+2012/Mar/29 16:20:09.260155 22 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:09.270944 22 - f_DIAMETER_Client_Transactions: Message sent on CIP_DIA_PCO: 
+{
+  Capabilities_Exchange (257)
+  avps := {
+    BASE Host_IP_Address (257) := '000188E10A1F'O
+    BASE Auth_Application_Id (258) := 16777232('01000010'O)
+    BASE Acct_Application_Id (259) := 0 ('00000000'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Origin_Host (264) := "ws027-23"
+    BASE Supported_Vendor_Id (265) := 193 ('000000C1'O)
+    BASE Vendor_Id (266) := 193 ('000000C1'O)
+    BASE Firmware_Revision (267) := 0 ('00000000'O)
+    BASE Product_Name (269) := '43495020436C69656E74'O ("CIP Client")
+    BASE Origin_Realm (296) := "ericsson.se"
+  }
+}
+2012/Mar/29 16:20:09.317369 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.317485 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.329278 21 - f_DIA_SCTP_Mapping_Client - ASP_SCTP message recieved with client_id: 7
+2012/Mar/29 16:20:09.337782 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.337852 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.340569 22 - f_DIAMETER_Client_Transactions: Message received on CIP_DIA_PCO: 
+{
+  Capabilities_Exchange (257)
+  avps := {
+    BASE Host_IP_Address (257) := '000188E10A1F'O
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Origin_Host (264) := "sdp.server.com"
+    BASE Supported_Vendor_Id (265) := 193 ('000000C1'O)
+    BASE Supported_Vendor_Id (265) := 10415 ('000028AF'O)
+    BASE Vendor_Id (266) := 193 ('000000C1'O)
+    BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+    BASE Product_Name (269) := '534450'O ("SDP")
+    BASE Origin_Realm (296) := "server.com"
+  }
+}
+2012/Mar/29 16:20:09.342707 22 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:09.342767 22 - f_DIAMETER_Client_Transactions: Number of successful transactions, 1 (1)
+2012/Mar/29 16:20:09.357888 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:09.357989 mtc - Debug: got pdus
+2012/Mar/29 16:20:09.358101 22 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:09.358233 22 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:09.358366 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:09.358526 21 - Matching on port DIA_PCO DEREGISTER (2) with REGISTER (0) unmatched: First message in the queue does not match the template: 
+2012/Mar/29 16:20:09.358606 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.358648 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.358744 22 - Final verdict of PTC: pass
+2012/Mar/29 16:20:09.439629 mtc - -- First Interrogation start --
+2012/Mar/29 16:20:09.439848 mtc - getverdict: pass
+2012/Mar/29 16:20:09.456376 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:09.456694 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.456742 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.456820 24 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #5
+
+2012/Mar/29 16:20:09.461045 24 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:09.461481 24 - f_DIAMETER_Client_Transactions: Message sent on CIP_DIA_PCO: 
+{
+  Experimental1 (16777214)
+  avps := {
+    BASE Event_Timestamp (55) := 2012-03-29 16:20:09 ('D31F0A39'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Session_Id (263) := '77733032372D32333B0678DE42721BE353'O
+    BASE Origin_Host (264) := "ws027-23"
+    BASE Destination_Realm (283) := "server.com"
+    BASE Origin_Realm (296) := "ericsson.se"
+    DCC CC_Request_Number (415) := 0 ('00000000'O)
+    DCC CC_Request_Type (416) := INITIAL_REQUEST ('00000001'O)
+    DCC Subscription_Id (443) := {
+      DCC Subscription_Id_Data (444) := '39333532303031'O ("9352001")
+      DCC Subscription_Id_Type (450) := END_USER_E164 ('00000000'O)
+    }
+    DCC Multiple_Services_Credit_Control (456) := {
+      DCC Rating_Group (432) := 1 ('00000001'O)
+      DCC Requested_Service_Unit (437) := {
+        DCC CC_Total_Octets (421) := 7000000000 ('00000001A13B8600'O)
+      }
+      DCC Service_Identifier (439) := 200 ('000000C8'O)
+      CIPIP_Ericsson Service_Session_Id (1068) := '77733032372D32333B0678DE42721BE353'O
+    }
+    DCC Service_Context_Id (461) := '534341505F562E322E30406572696373736F6E2E636F6D'O ("SCAP_V.2.0@ericsson.com")
+    CIPIP_Ericsson Charging_Context_Id (1065) := '534341505F562E322E30406572696373736F6E2E636F6D'O ("SCAP_V.2.0@ericsson.com")
+    CIPIP_Ericsson CIP_IP_Version (1083) := '523141'O ("R1A")
+  }
+}
+2012/Mar/29 16:20:09.471446 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.471553 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.562453 21 - f_DIA_SCTP_Mapping_Client - ASP_SCTP message recieved with client_id: 7
+2012/Mar/29 16:20:09.564558 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.564617 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.566218 24 - f_DIAMETER_Client_Transactions: Message received on CIP_DIA_PCO: 
+{
+  Experimental1 (16777214)
+  avps := {
+    BASE Event_Timestamp (55) := 2012-03-29 14:20:09 ('D31EEE19'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Session_Id (263) := '77733032372D32333B0678DE42721BE353'O
+    BASE Origin_Host (264) := "sdp.server.com"
+    BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+    BASE Origin_Realm (296) := "server.com"
+    DCC CC_Request_Number (415) := 0 ('00000000'O)
+    DCC CC_Request_Type (416) := INITIAL_REQUEST ('00000001'O)
+    DCC Multiple_Services_Credit_Control (456) := {
+      BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+      DCC Granted_Service_Unit (431) := {
+        DCC CC_Total_Octets (421) := 7000000000 ('00000001A13B8600'O)
+      }
+      DCC Validity_Time (448) := 60 ('0000003C'O)
+      CIPIP_Ericsson Charging_State_Information (1066) := '01018102810301020103000401FFFF82130100000000FF83148115814100000000008241000000000003FFFFFFFF040000000085410000000000FF020103010400FF841601020103000401FF8518814C00000000008219811A01020103000401FF821C01020103000401FF831E01020103000401FF842001020103000401FFFFFF86228123010082410000000000834100000000000401FF020103010400FF8724811D01000003E702000000003B9ACA0003FFFFFFFAFF020103010400FF88258126013D725C79821D01000003E702000000000000000003FFFFFFFAFF03000000000000000004FFFFFFFF851D01000000000200000000000000000300000000FF060000000000000000874D01020103000401FFFF020103010400FF892781340000000000020103010400FF8A288129813500000000110100000000000000000000000000000001822A811B010000000000000000FF821D01FFFFFFFF0200000000000000000300000000FF831F010000000000000000020000000000000000030000000000000000FF8421010000000000000000FFFF03000000004F746F9904010500000000000000008641000000000007000000004F746F99884100000000000900FF020103010400FF8B2B01020103000401FF8C3981350000000000FF8D3A01020103000401FF8E3C813D01000102000003000001365ED3EDA88412814A0000000000020000000003000000000400000000FFFF020103010400FF8F3E01020103000401FF90438144004500000000023D725C7903FFFFFFFF844D01020103000401FFFF914701020103000401FFFF'O
+      CIPIP_Ericsson Service_Session_Id (1068) := '77733032372D32333B0678DE42721BE353'O
+    }
+  }
+}
+2012/Mar/29 16:20:09.569778 24 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:09.569842 24 - f_DIAMETER_Client_Transactions: Number of successful transactions, 1 (1)
+2012/Mar/29 16:20:09.570038 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:09.570139 mtc - Debug: got pdus
+2012/Mar/29 16:20:09.570220 24 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:09.570319 24 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:09.570400 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:09.570462 21 - Matching on port DIA_PCO DEREGISTER (2) with REGISTER (0) unmatched: First message in the queue does not match the template: 
+2012/Mar/29 16:20:09.570518 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:09.570565 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:09.570692 24 - Final verdict of PTC: pass
+2012/Mar/29 16:20:09.574094 mtc - -- First Interrogation end --
+2012/Mar/29 16:20:09.579982 26 - "NodeSetup: Time delay of 5.000000 secs."
+2012/Mar/29 16:20:14.581206 26 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:14.581425 26 - Final verdict of PTC: pass
+2012/Mar/29 16:20:14.581556 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:14.581658 mtc - getverdict: pass
+2012/Mar/29 16:20:14.581691 mtc -  -- FirstInterrogation ok, start IntermediateInterrogation -- 
+2012/Mar/29 16:20:14.602007 mtc - -- Intermediate Interrogation start --
+2012/Mar/29 16:20:14.602178 mtc - getverdict: pass
+2012/Mar/29 16:20:14.618979 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:14.619075 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:14.619117 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:14.619163 27 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #6
+
+2012/Mar/29 16:20:14.619794 27 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:14.620235 27 - f_DIAMETER_Client_Transactions: Message sent on CIP_DIA_PCO: 
+{
+  Experimental1 (16777214)
+  avps := {
+    BASE Event_Timestamp (55) := 2012-03-29 16:20:14 ('D31F0A3E'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Session_Id (263) := '77733032372D32333B0678DE42721BE353'O
+    BASE Origin_Host (264) := "ws027-23"
+    BASE Destination_Realm (283) := "server.com"
+    BASE Origin_Realm (296) := "ericsson.se"
+    DCC CC_Request_Number (415) := 1 ('00000001'O)
+    DCC CC_Request_Type (416) := UPDATE_REQUEST ('00000002'O)
+    DCC Subscription_Id (443) := {
+      DCC Subscription_Id_Data (444) := '39333532303031'O ("9352001")
+      DCC Subscription_Id_Type (450) := END_USER_E164 ('00000000'O)
+    }
+    DCC Multiple_Services_Credit_Control (456) := {
+      DCC Requested_Service_Unit (437) := {
+        DCC CC_Total_Octets (421) := 5600000000 ('000000014DC93800'O)
+      }
+      DCC Service_Identifier (439) := 200 ('000000C8'O)
+      DCC Used_Service_Unit (446) := {
+        DCC CC_Total_Octets (421) := 7000000000 ('00000001A13B8600'O)
+      }
+      CIPIP_Ericsson Charging_State_Information (1066) := '01018102810301020103000401FFFF82130100000000FF83148115814100000000008241000000000003FFFFFFFF040000000085410000000000FF020103010400FF841601020103000401FF8518814C00000000008219811A01020103000401FF821C01020103000401FF831E01020103000401FF842001020103000401FFFFFF86228123010082410000000000834100000000000401FF020103010400FF8724811D01000003E702000000003B9ACA0003FFFFFFFAFF020103010400FF88258126013D725C79821D01000003E702000000000000000003FFFFFFFAFF03000000000000000004FFFFFFFF851D01000000000200000000000000000300000000FF060000000000000000874D01020103000401FFFF020103010400FF892781340000000000020103010400FF8A288129813500000000110100000000000000000000000000000001822A811B010000000000000000FF821D01FFFFFFFF0200000000000000000300000000FF831F010000000000000000020000000000000000030000000000000000FF8421010000000000000000FFFF03000000004F746F9904010500000000000000008641000000000007000000004F746F99884100000000000900FF020103010400FF8B2B01020103000401FF8C3981350000000000FF8D3A01020103000401FF8E3C813D01000102000003000001365ED3EDA88412814A0000000000020000000003000000000400000000FFFF020103010400FF8F3E01020103000401FF90438144004500000000023D725C7903FFFFFFFF844D01020103000401FFFF914701020103000401FFFF'O
+      CIPIP_Ericsson Service_Session_Id (1068) := '77733032372D32333B0678DE42721BE353'O
+    }
+    DCC Service_Context_Id (461) := '534341505F562E322E30406572696373736F6E2E636F6D'O ("SCAP_V.2.0@ericsson.com")
+    CIPIP_Ericsson Charging_Context_Id (1065) := '534341505F562E322E30406572696373736F6E2E636F6D'O ("SCAP_V.2.0@ericsson.com")
+    CIPIP_Ericsson CIP_IP_Version (1083) := '523141'O ("R1A")
+  }
+}
+2012/Mar/29 16:20:14.620822 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:14.620880 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:14.729193 21 - f_DIA_SCTP_Mapping_Client - ASP_SCTP message recieved with client_id: 7
+2012/Mar/29 16:20:14.729640 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:14.729701 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:14.729864 27 - f_DIAMETER_Client_Transactions: Message received on CIP_DIA_PCO: 
+{
+  Experimental1 (16777214)
+  avps := {
+    BASE Event_Timestamp (55) := 2012-03-29 14:20:14 ('D31EEE1E'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Session_Id (263) := '77733032372D32333B0678DE42721BE353'O
+    BASE Origin_Host (264) := "sdp.server.com"
+    BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+    BASE Origin_Realm (296) := "server.com"
+    DCC CC_Request_Number (415) := 1 ('00000001'O)
+    DCC CC_Request_Type (416) := UPDATE_REQUEST ('00000002'O)
+    DCC Multiple_Services_Credit_Control (456) := {
+      BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+      DCC Cost_Information (423) := {
+        DCC Currency_Code (425) := 999 ('000003E7'O)
+        DCC Unit_Value (445) := {
+          DCC Exponent (429) := -6
+          DCC Value_Digits (447) := 21 (21000000)
+        }
+      }
+      DCC Granted_Service_Unit (431) := {
+        DCC CC_Total_Octets (421) := 5600000000 ('000000014DC93800'O)
+      }
+      DCC Validity_Time (448) := 60 ('0000003C'O)
+      CIPIP_Ericsson CDR_Information (1064) := 'A08201BB810200C8A20C300A800100830501A13B8600831332303132303332393136323031342B30323030841332303132303332393136323030392B30303030850100870100A847304580023933813C3230303730393238543039333934363030302D3133362E3232352E37342E37312D33323434313133322D313539373335393032322C207665723A2034820100A982012C800581392500F18102270F820100A30D80043B9ACA00810106820203E7A40D80043A5A5AC0810106820203E78A0100AB0D800401406F40810106820203E7AD0D800401406F40810106820203E7B3819E304CA000A1423040A109830100840100850100A220A11EA10D8305012A05F200840100850100A20D800400E4E1C0810106820203E7A411300F800165A1078005012A05F20082010182010A870101304EA000A1443042A10D8305012A05F200840100850100A21FA11DA10D830501A13B8600840100850100A20C80035B8D80810106820203E7A410300E800165A10680047735940082010382010A870103B53C301D800165A103800100A2078005012A05F200A3078005012A05F200840101301B800165A103800100A206800477359400A306800477359400840103'O
+      CIPIP_Ericsson Charging_State_Information (1066) := '01018102810301020103000401FFFF82130100000000FF83148115814100000000008241000000000003FFFFFFFF040000000085410000000000FF020103010400FF841601020103000401FF8518814C00000000008219811A01020103000401FF821C01020103000401FF831E811F0100000001A13B8600020000000000000000030000000000000000FF020103010400FF842001020103000401FFFFFF86228123010082410000000000834100000000000401FF020103010400FF8724811D01000003E702000000003B9ACA0003FFFFFFFAFF020103010400FF88258126013D727004821D01000003E7020000000001406F4003FFFFFFFAFF03000000000000000004FFFFFFFF851D01000000000200000000000000000300000000FF060000000000000000874D01020103000401FFFF020103010400FF892781340000000000020103010400FF8A288129813500000000110100000004E3B29200000000003B9ACA00822A811B010000000000000000FF821D01FFFFFFFF0200000000000000000300000000FF831F0100000001A13B8600020000000000000000030000000000000000FF8421010000000000000000FFFF03000000004F746F9E04000500000000000000008641000000000007000000004F746F9E8841000D0900FF020103010400FF8B2B01020103000401FF8C3981350000000000FF8D3A01020103000401FF8E3C813D01000102000003000001365ED401308412814A0000000000020000000003000000000400000000FFFF020103010400FF8F3E01020103000401FF90438144004500000000023D72700403FFFFFFFF844D01020103000401FFFF914701020103000401FFFF'O
+      CIPIP_Ericsson Service_Session_Id (1068) := '77733032372D32333B0678DE42721BE353'O
+    }
+  }
+}
+2012/Mar/29 16:20:14.733247 27 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:14.733317 27 - f_DIAMETER_Client_Transactions: Number of successful transactions, 1 (1)
+2012/Mar/29 16:20:14.733544 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:14.733642 mtc - Debug: got pdus
+2012/Mar/29 16:20:14.733731 27 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:14.733845 27 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:14.733936 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:14.734010 21 - Matching on port DIA_PCO DEREGISTER (2) with REGISTER (0) unmatched: First message in the queue does not match the template: 
+2012/Mar/29 16:20:14.734070 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:14.734108 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:14.734282 27 - Final verdict of PTC: pass
+2012/Mar/29 16:20:14.734550 mtc - -- Intermediate Interrogation end --
+2012/Mar/29 16:20:14.792489 mtc - getverdict: pass
+2012/Mar/29 16:20:14.814270 29 - Connected successfully to the Port Mapper
+2012/Mar/29 16:20:14.820600 29 - Registration to PortMapper successful
+2012/Mar/29 16:20:14.820682 29 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:14.820813 29 - Closed connection to the Port Mapper
+2012/Mar/29 16:20:14.821050 29 - Connected succesfully to the server
+2012/Mar/29 16:20:14.911598 29 - Matching on port SDPAM_PCO : Type of the first message in the queue is not @SDPAM_Types.SDPAM_Packet.
+2012/Mar/29 16:20:14.911784 30 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #7
+
+2012/Mar/29 16:20:14.925580 30 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:14.934509 30 - f_SDPAM_Client_Transactions: Message sent on SDPAM_PCO: 
+{
+  request_get_52 := {
+    default_header := {
+      version := 52,
+      CUST_TEL_NO := "9352001",
+      origin_node_type := "SDP",
+      origin_node_id := "ws027-23",
+      transaction_id := "10389695694100979596",
+      transaction_date_time := "2012-03-29T16:20:14+02:00"
+    },
+    operation := "GET",
+    msg_capability_flag := omit,
+    requested_info_flag := omit,
+    blocks := {
+      {
+        block_usagecounterandthreshold_req := {
+          associated_party_id := omit
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:14.940535 29 - RPC data sent: "version=52\r\nCUST_TEL_NO=9352001\r\norigin_node_type=SDP\r\norigin_node_id=ws027-23\r\ntransaction_id=10389695694100979596\r\ntransaction_date_time=2012-03-29T16:20:14+02:00\r\noperation=GET\r\nBlock=UsageCounterAndThreshold\r\n"
+2012/Mar/29 16:20:15.104948 30 - f_SDPAM_Client_Transactions: Message received on SDPAM_PCO: 
+{
+  succ_response_get_52 := {
+    default_header := {
+      response_date_time := "2012-03-29T16:20:14+02:00"
+    },
+    master := "9352001",
+    currency := 0,
+    master_subordinate_flag := 0,
+    service_class := 9999,
+    orig_service_class := omit,
+    sdp_language := 1,
+    flags_before := omit,
+    flags_after := omit,
+    temp_blocked_flag := omit,
+    blocks := {
+      {
+        block_usagecounterandthreshold_resp := {
+          usagecounterandthreshold_members := {
+            {
+              usage_counter_id := 101,
+              usage_counter_product_id := 1,
+              usage_counter_value := "5000000000",
+              number_of_decimals := omit,
+              usage_value_type := 1,
+              usagecounterandthreshold_threshold_members := {
+                {
+                  usage_threshold_id := 102,
+                  usage_threshold_value := "25000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                },
+                {
+                  usage_threshold_id := 101,
+                  usage_threshold_value := "5000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                }
+              },
+              associated_party_id := omit
+            },
+            {
+              usage_counter_id := 101,
+              usage_counter_product_id := 3,
+              usage_counter_value := "2000000000",
+              number_of_decimals := omit,
+              usage_value_type := 1,
+              usagecounterandthreshold_threshold_members := {
+                {
+                  usage_threshold_id := 102,
+                  usage_threshold_value := "25000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                },
+                {
+                  usage_threshold_id := 101,
+                  usage_threshold_value := "5000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                }
+              },
+              associated_party_id := omit
+            }
+          }
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:15.122380 30 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:15.122795 mtc - Stopping SDPAM mapping component
+2012/Mar/29 16:20:15.122933 30 - f_SDPAM_Client_Transactions: Number of successful messages, 1 (1)
+2012/Mar/29 16:20:15.122997 30 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:15.123075 30 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:17.123340 30 - f_DisconnectMapping: WARNING. Timeout waiting for 'DISCONNECT_OK'.
+
+Sub test case #8
+
+2012/Mar/29 16:20:17.245532 mtc - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:17.245618 mtc - CDR match OK
+2012/Mar/29 16:20:17.246103 mtc - {
+  creditControlRecord := {
+    serviceIdentifier := 200,
+    usedServiceUnits := {
+      {
+        tariffChangeUsage := before (0),
+        timeUnit := omit,
+        moneyUnit := omit,
+        totalOctetsUnit := '01A13B8600'O,
+        uplinkOctetsUnit := omit,
+        downlinkOctetsUnit := omit,
+        serviceSpecificUnit := omit
+      }
+    },
+    eventTime := "20120329162014+0200",
+    triggerTime := "20120329162009+0000",
+    serviceScenario := mobileOriginating (0),
+    serviceExtension := omit,
+    roamingPosition := insideHPLMN (0),
+    tariffInfo := {
+      {
+        selectionTreeID := "93",
+        selectionTreeVersion := "20070928T093946000-136.225.74.71-32441132-1597359022, ver: 4",
+        selectionTreeType := rating (0)
+      }
+    },
+    cCAccountData := {
+      servedAccount := '81392500F1'O,
+      serviceClassID := 9999,
+      accountGroupID := 0,
+      accountValueBefore := {
+        amount := '3B9ACA00'O,
+        decimals := 6,
+        currency := 999
+      },
+      accountValueAfter := {
+        amount := '3A5A5AC0'O,
+        decimals := 6,
+        currency := 999
+      },
+      communityInformation := omit,
+      accumulators := omit,
+      dedicatedAccounts := omit,
+      familyAndFriendsID := omit,
+      familyAndFriendsNo := omit,
+      serviceOfferings := 0,
+      accumulatedCost := {
+        amount := '01406F40'O,
+        decimals := 6,
+        currency := 999
+      },
+      accountValueUsed := omit,
+      accountValueDeducted := {
+        amount := '01406F40'O,
+        decimals := 6,
+        currency := 999
+      },
+      aggregatedValueBefore := omit,
+      aggregatedValueAfter := omit,
+      accumulatedUnits := omit,
+      accountUnitsUsed := omit,
+      accountUnitsDeducted := omit,
+      specifiedConsumptions := {
+        {
+          selectionTreeQualifiers := { },
+          specifiedConsumptionAccounts := {
+            {
+              units := {
+                timeUnit := omit,
+                moneyUnit := omit,
+                totalOctetsUnit := '00'O,
+                uplinkOctetsUnit := '00'O,
+                downlinkOctetsUnit := '00'O,
+                serviceSpecificUnit := omit
+              },
+              accountSpecifiedConsumption := {
+                mainAccountSpecifiedConsumption := {
+                  mainAccountRatedUnits := {
+                    timeUnit := omit,
+                    moneyUnit := omit,
+                    totalOctetsUnit := '012A05F200'O,
+                    uplinkOctetsUnit := '00'O,
+                    downlinkOctetsUnit := '00'O,
+                    serviceSpecificUnit := omit
+                  },
+                  mainAccountDeducted := {
+                    amount := '00E4E1C0'O,
+                    decimals := 6,
+                    currency := 999
+                  }
+                }
+              },
+              accumulatorSpecifiedConsumptions := omit,
+              usageCounterSpecifiedConsumptions := {
+                {
+                  usageCounterID := 101,
+                  usageCounterChange := {
+                    usageCounterUnit := '012A05F200'O
+                  },
+                  productID := 1
+                }
+              }
+            }
+          },
+          offerId := 10,
+          individualPriceFactorAtUnit := omit,
+          terminationAtUnit := omit,
+          eligibleOfferAtUnit := omit,
+          offerProviderID := omit,
+          productID := 1
+        },
+        {
+          selectionTreeQualifiers := { },
+          specifiedConsumptionAccounts := {
+            {
+              units := {
+                timeUnit := omit,
+                moneyUnit := omit,
+                totalOctetsUnit := '012A05F200'O,
+                uplinkOctetsUnit := '00'O,
+                downlinkOctetsUnit := '00'O,
+                serviceSpecificUnit := omit
+              },
+              accountSpecifiedConsumption := {
+                mainAccountSpecifiedConsumption := {
+                  mainAccountRatedUnits := {
+                    timeUnit := omit,
+                    moneyUnit := omit,
+                    totalOctetsUnit := '01A13B8600'O,
+                    uplinkOctetsUnit := '00'O,
+                    downlinkOctetsUnit := '00'O,
+                    serviceSpecificUnit := omit
+                  },
+                  mainAccountDeducted := {
+                    amount := '5B8D80'O,
+                    decimals := 6,
+                    currency := 999
+                  }
+                }
+              },
+              accumulatorSpecifiedConsumptions := omit,
+              usageCounterSpecifiedConsumptions := {
+                {
+                  usageCounterID := 101,
+                  usageCounterChange := {
+                    usageCounterUnit := '77359400'O
+                  },
+                  productID := 3
+                }
+              }
+            }
+          },
+          offerId := 10,
+          individualPriceFactorAtUnit := omit,
+          terminationAtUnit := omit,
+          eligibleOfferAtUnit := omit,
+          offerProviderID := omit,
+          productID := 3
+        }
+      },
+      usedOffers := omit,
+      usageCounters := {
+        {
+          usageCounterID := 101,
+          usageCounterValueBefore := {
+            usageCounterUnit := '00'O
+          },
+          usageCounterValueAfter := {
+            usageCounterUnit := '012A05F200'O
+          },
+          usageCounterChange := {
+            usageCounterUnit := '012A05F200'O
+          },
+          productID := 1
+        },
+        {
+          usageCounterID := 101,
+          usageCounterValueBefore := {
+            usageCounterUnit := '00'O
+          },
+          usageCounterValueAfter := {
+            usageCounterUnit := '77359400'O
+          },
+          usageCounterChange := {
+            usageCounterUnit := '77359400'O
+          },
+          productID := 3
+        }
+      },
+      providersFamilyAndFriendsID := omit,
+      usedOffersAdditionalInfo := omit
+    },
+    chargingContextSpecific := omit,
+    treeDefinedFields := omit,
+    bonusAdjustment := omit,
+    serviceSetupResult := omit,
+    terminationCause := omit,
+    ratedUnits := omit,
+    individualPriceFactorHistory := omit,
+    periodicAccountMgmtData := omit,
+    providerCreditControlRecord := omit
+  }
+}
+2012/Mar/29 16:20:17.247088 mtc - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:17.272304 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:17.272436 mtc - getverdict: pass
+2012/Mar/29 16:20:17.272483 mtc -  -- IntermediateInterrogation ok, start FinalReport -- 
+2012/Mar/29 16:20:17.282932 mtc - -- Final Report start --
+2012/Mar/29 16:20:17.283161 mtc - getverdict: pass
+2012/Mar/29 16:20:17.303092 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:17.303206 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:17.303250 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:17.303279 31 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #9
+
+2012/Mar/29 16:20:17.303833 31 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:17.304260 31 - f_DIAMETER_Client_Transactions: Message sent on CIP_DIA_PCO: 
+{
+  Experimental1 (16777214)
+  avps := {
+    BASE Event_Timestamp (55) := 2012-03-29 16:20:17 ('D31F0A41'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Session_Id (263) := '77733032372D32333B0678DE42721BE353'O
+    BASE Origin_Host (264) := "ws027-23"
+    BASE Destination_Realm (283) := "server.com"
+    BASE Origin_Realm (296) := "ericsson.se"
+    DCC CC_Request_Number (415) := 2 ('00000002'O)
+    DCC CC_Request_Type (416) := TERMINATION_REQUEST ('00000003'O)
+    DCC Subscription_Id (443) := {
+      DCC Subscription_Id_Data (444) := '39333532303031'O ("9352001")
+      DCC Subscription_Id_Type (450) := END_USER_E164 ('00000000'O)
+    }
+    DCC Multiple_Services_Credit_Control (456) := {
+      DCC Service_Identifier (439) := 200 ('000000C8'O)
+      DCC Used_Service_Unit (446) := {
+        DCC CC_Total_Octets (421) := 5600000000 ('000000014DC93800'O)
+      }
+      CIPIP_Ericsson Charging_State_Information (1066) := '01018102810301020103000401FFFF82130100000000FF83148115814100000000008241000000000003FFFFFFFF040000000085410000000000FF020103010400FF841601020103000401FF8518814C00000000008219811A01020103000401FF821C01020103000401FF831E811F0100000001A13B8600020000000000000000030000000000000000FF020103010400FF842001020103000401FFFFFF86228123010082410000000000834100000000000401FF020103010400FF8724811D01000003E702000000003B9ACA0003FFFFFFFAFF020103010400FF88258126013D727004821D01000003E7020000000001406F4003FFFFFFFAFF03000000000000000004FFFFFFFF851D01000000000200000000000000000300000000FF060000000000000000874D01020103000401FFFF020103010400FF892781340000000000020103010400FF8A288129813500000000110100000004E3B29200000000003B9ACA00822A811B010000000000000000FF821D01FFFFFFFF0200000000000000000300000000FF831F0100000001A13B8600020000000000000000030000000000000000FF8421010000000000000000FFFF03000000004F746F9E04000500000000000000008641000000000007000000004F746F9E8841000D0900FF020103010400FF8B2B01020103000401FF8C3981350000000000FF8D3A01020103000401FF8E3C813D01000102000003000001365ED401308412814A0000000000020000000003000000000400000000FFFF020103010400FF8F3E01020103000401FF90438144004500000000023D72700403FFFFFFFF844D01020103000401FFFF914701020103000401FFFF'O
+      CIPIP_Ericsson Service_Session_Id (1068) := '77733032372D32333B0678DE42721BE353'O
+    }
+    DCC Service_Context_Id (461) := '534341505F562E322E30406572696373736F6E2E636F6D'O ("SCAP_V.2.0@ericsson.com")
+    CIPIP_Ericsson Charging_Context_Id (1065) := '534341505F562E322E30406572696373736F6E2E636F6D'O ("SCAP_V.2.0@ericsson.com")
+    CIPIP_Ericsson CIP_IP_Version (1083) := '523141'O ("R1A")
+  }
+}
+2012/Mar/29 16:20:17.304736 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:17.304787 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:17.394367 21 - f_DIA_SCTP_Mapping_Client - ASP_SCTP message recieved with client_id: 7
+2012/Mar/29 16:20:17.394724 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:17.394773 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:17.394965 31 - f_DIAMETER_Client_Transactions: Message received on CIP_DIA_PCO: 
+{
+  Experimental1 (16777214)
+  avps := {
+    BASE Event_Timestamp (55) := 2012-03-29 14:20:17 ('D31EEE21'O)
+    BASE Vendor_Specific_Application_Id (260) := {
+      BASE Auth_Application_Id (258) := 16777232('01000010'O)
+      BASE Vendor_Id (266) := 193 ('000000C1'O)
+    }
+    BASE Session_Id (263) := '77733032372D32333B0678DE42721BE353'O
+    BASE Origin_Host (264) := "sdp.server.com"
+    BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+    BASE Origin_Realm (296) := "server.com"
+    DCC CC_Request_Number (415) := 2 ('00000002'O)
+    DCC CC_Request_Type (416) := TERMINATION_REQUEST ('00000003'O)
+    DCC Multiple_Services_Credit_Control (456) := {
+      BASE Result_Code (268) := DIAMETER_SUCCESS ('000007D1'O)
+      DCC Cost_Information (423) := {
+        DCC Currency_Code (425) := 999 ('000003E7'O)
+        DCC Unit_Value (445) := {
+          DCC Exponent (429) := -6
+          DCC Value_Digits (447) := 40.4 (40400000)
+        }
+      }
+      CIPIP_Ericsson CDR_Information (1064) := 'A08201C6810200C8A20C300A8001008305014DC93800831332303132303332393136323031372B30323030841332303132303332393136323031342B30303030850100870100A847304580023933813C3230303730393238543039333934363030302D3133362E3232352E37342E37312D33323434313133322D313539373335393032322C207665723A2034820100A9820137800581392500F18102270F820100A30D80043A5A5AC0810106820203E7A40D800439325580810106820203E78A0100AB0D800402687480810106820203E7AD0D800401280540810106820203E7B381A43050A000A1463044A10D830501A13B8600840100850100A220A11EA10D830500B2D05E00840100850100A20D800400895440810106820203E7A411300F800165A107800500B2D05E0082010382010A8701033050A000A1463044A10D830502540BE400840100850100A220A11EA10D8305014DC93800840100850100A20D8004009EB100810106820203E7A411300F800165A1078005009AF8DA00820102820114870102B5413020800165A106800477359400A2078005012A05F200A307800500B2D05E00840103301D800165A103800100A2078005009AF8DA00A3078005009AF8DA00840102'O
+      CIPIP_Ericsson Service_Session_Id (1068) := '77733032372D32333B0678DE42721BE353'O
+    }
+  }
+}
+2012/Mar/29 16:20:17.396921 31 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:17.396986 31 - f_DIAMETER_Client_Transactions: Number of successful transactions, 1 (1)
+2012/Mar/29 16:20:17.397286 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:17.397375 mtc - Debug: got pdus
+2012/Mar/29 16:20:17.397461 31 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:17.397563 31 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:17.397647 21 - Matching on port DIA_PCO : Type of the first message in the queue is not @DIAMETER_Types.PDU_DIAMETER.
+2012/Mar/29 16:20:17.397704 21 - Matching on port DIA_PCO DEREGISTER (2) with REGISTER (0) unmatched: First message in the queue does not match the template: 
+2012/Mar/29 16:20:17.397799 21 - Timeout operation on timer Treconnect : The timer is not started.
+2012/Mar/29 16:20:17.397836 21 - Timeout operation on timer Ttimeout : The timer is not started.
+2012/Mar/29 16:20:17.397986 31 - Final verdict of PTC: pass
+2012/Mar/29 16:20:17.398290 mtc - -- Final Report end --
+
+Sub test case #10
+
+2012/Mar/29 16:20:17.399267 mtc - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:17.399315 mtc - CDR match OK
+2012/Mar/29 16:20:17.399605 mtc - {
+  creditControlRecord := {
+    serviceIdentifier := 200,
+    usedServiceUnits := {
+      {
+        tariffChangeUsage := before (0),
+        timeUnit := omit,
+        moneyUnit := omit,
+        totalOctetsUnit := '014DC93800'O,
+        uplinkOctetsUnit := omit,
+        downlinkOctetsUnit := omit,
+        serviceSpecificUnit := omit
+      }
+    },
+    eventTime := "20120329162017+0200",
+    triggerTime := "20120329162014+0000",
+    serviceScenario := mobileOriginating (0),
+    serviceExtension := omit,
+    roamingPosition := insideHPLMN (0),
+    tariffInfo := {
+      {
+        selectionTreeID := "93",
+        selectionTreeVersion := "20070928T093946000-136.225.74.71-32441132-1597359022, ver: 4",
+        selectionTreeType := rating (0)
+      }
+    },
+    cCAccountData := {
+      servedAccount := '81392500F1'O,
+      serviceClassID := 9999,
+      accountGroupID := 0,
+      accountValueBefore := {
+        amount := '3A5A5AC0'O,
+        decimals := 6,
+        currency := 999
+      },
+      accountValueAfter := {
+        amount := '39325580'O,
+        decimals := 6,
+        currency := 999
+      },
+      communityInformation := omit,
+      accumulators := omit,
+      dedicatedAccounts := omit,
+      familyAndFriendsID := omit,
+      familyAndFriendsNo := omit,
+      serviceOfferings := 0,
+      accumulatedCost := {
+        amount := '02687480'O,
+        decimals := 6,
+        currency := 999
+      },
+      accountValueUsed := omit,
+      accountValueDeducted := {
+        amount := '01280540'O,
+        decimals := 6,
+        currency := 999
+      },
+      aggregatedValueBefore := omit,
+      aggregatedValueAfter := omit,
+      accumulatedUnits := omit,
+      accountUnitsUsed := omit,
+      accountUnitsDeducted := omit,
+      specifiedConsumptions := {
+        {
+          selectionTreeQualifiers := { },
+          specifiedConsumptionAccounts := {
+            {
+              units := {
+                timeUnit := omit,
+                moneyUnit := omit,
+                totalOctetsUnit := '01A13B8600'O,
+                uplinkOctetsUnit := '00'O,
+                downlinkOctetsUnit := '00'O,
+                serviceSpecificUnit := omit
+              },
+              accountSpecifiedConsumption := {
+                mainAccountSpecifiedConsumption := {
+                  mainAccountRatedUnits := {
+                    timeUnit := omit,
+                    moneyUnit := omit,
+                    totalOctetsUnit := '00B2D05E00'O,
+                    uplinkOctetsUnit := '00'O,
+                    downlinkOctetsUnit := '00'O,
+                    serviceSpecificUnit := omit
+                  },
+                  mainAccountDeducted := {
+                    amount := '00895440'O,
+                    decimals := 6,
+                    currency := 999
+                  }
+                }
+              },
+              accumulatorSpecifiedConsumptions := omit,
+              usageCounterSpecifiedConsumptions := {
+                {
+                  usageCounterID := 101,
+                  usageCounterChange := {
+                    usageCounterUnit := '00B2D05E00'O
+                  },
+                  productID := 3
+                }
+              }
+            }
+          },
+          offerId := 10,
+          individualPriceFactorAtUnit := omit,
+          terminationAtUnit := omit,
+          eligibleOfferAtUnit := omit,
+          offerProviderID := omit,
+          productID := 3
+        },
+        {
+          selectionTreeQualifiers := { },
+          specifiedConsumptionAccounts := {
+            {
+              units := {
+                timeUnit := omit,
+                moneyUnit := omit,
+                totalOctetsUnit := '02540BE400'O,
+                uplinkOctetsUnit := '00'O,
+                downlinkOctetsUnit := '00'O,
+                serviceSpecificUnit := omit
+              },
+              accountSpecifiedConsumption := {
+                mainAccountSpecifiedConsumption := {
+                  mainAccountRatedUnits := {
+                    timeUnit := omit,
+                    moneyUnit := omit,
+                    totalOctetsUnit := '014DC93800'O,
+                    uplinkOctetsUnit := '00'O,
+                    downlinkOctetsUnit := '00'O,
+                    serviceSpecificUnit := omit
+                  },
+                  mainAccountDeducted := {
+                    amount := '009EB100'O,
+                    decimals := 6,
+                    currency := 999
+                  }
+                }
+              },
+              accumulatorSpecifiedConsumptions := omit,
+              usageCounterSpecifiedConsumptions := {
+                {
+                  usageCounterID := 101,
+                  usageCounterChange := {
+                    usageCounterUnit := '009AF8DA00'O
+                  },
+                  productID := 2
+                }
+              }
+            }
+          },
+          offerId := 20,
+          individualPriceFactorAtUnit := omit,
+          terminationAtUnit := omit,
+          eligibleOfferAtUnit := omit,
+          offerProviderID := omit,
+          productID := 2
+        }
+      },
+      usedOffers := omit,
+      usageCounters := {
+        {
+          usageCounterID := 101,
+          usageCounterValueBefore := {
+            usageCounterUnit := '77359400'O
+          },
+          usageCounterValueAfter := {
+            usageCounterUnit := '012A05F200'O
+          },
+          usageCounterChange := {
+            usageCounterUnit := '00B2D05E00'O
+          },
+          productID := 3
+        },
+        {
+          usageCounterID := 101,
+          usageCounterValueBefore := {
+            usageCounterUnit := '00'O
+          },
+          usageCounterValueAfter := {
+            usageCounterUnit := '009AF8DA00'O
+          },
+          usageCounterChange := {
+            usageCounterUnit := '009AF8DA00'O
+          },
+          productID := 2
+        }
+      },
+      providersFamilyAndFriendsID := omit,
+      usedOffersAdditionalInfo := omit
+    },
+    chargingContextSpecific := omit,
+    treeDefinedFields := omit,
+    bonusAdjustment := omit,
+    serviceSetupResult := omit,
+    terminationCause := omit,
+    ratedUnits := omit,
+    individualPriceFactorHistory := omit,
+    periodicAccountMgmtData := omit,
+    providerCreditControlRecord := omit
+  }
+}
+2012/Mar/29 16:20:17.400382 mtc - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:17.400431 mtc - setverdict(pass): pass -> pass, component reason not changed
+2012/Mar/29 16:20:17.400617 mtc - "f_Configure_SUT_mtc - Calling script: cd path; ./cip_neighbour_enable. Waiting for SUT to process it:" 0.500000 (s)
+2012/Mar/29 16:20:17.900645 mtc - "f_Configure_SUT_mtc - Calling script: cd path; ./cip_neighbour_disable. Waiting for SUT to process it:" 1.000000 (s)
+2012/Mar/29 16:20:20.064377 21 - Final verdict of PTC: none
+2012/Mar/29 16:20:20.064566 mtc - Shut down measurement
+2012/Mar/29 16:20:20.064744 3 - "stop"
+2012/Mar/29 16:20:20.110246 mtc - getverdict: pass
+2012/Mar/29 16:20:20.129418 33 - Connected successfully to the Port Mapper
+2012/Mar/29 16:20:20.130404 33 - Registration to PortMapper successful
+2012/Mar/29 16:20:20.130493 33 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:20.130632 33 - Closed connection to the Port Mapper
+2012/Mar/29 16:20:20.130840 33 - Connected succesfully to the server
+2012/Mar/29 16:20:20.142140 33 - Matching on port SDPAM_PCO : Type of the first message in the queue is not @SDPAM_Types.SDPAM_Packet.
+2012/Mar/29 16:20:20.142344 34 - CLIENT_START_OF_TRANSACTIONS
+
+Sub test case #11
+
+2012/Mar/29 16:20:20.142959 34 - CLIENT_START_OF_TRANSACTION
+2012/Mar/29 16:20:20.143329 34 - f_SDPAM_Client_Transactions: Message sent on SDPAM_PCO: 
+{
+  request_get_52 := {
+    default_header := {
+      version := 52,
+      CUST_TEL_NO := "9352001",
+      origin_node_type := "SDP",
+      origin_node_id := "ws027-23",
+      transaction_id := "91151073575552657094",
+      transaction_date_time := "2012-03-29T16:20:20+02:00"
+    },
+    operation := "GET",
+    msg_capability_flag := omit,
+    requested_info_flag := omit,
+    blocks := {
+      {
+        block_subscriber_req := { }
+      },
+      {
+        block_usagecounterandthreshold_req := {
+          associated_party_id := omit
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:20.144041 33 - RPC data sent: "version=52\r\nCUST_TEL_NO=9352001\r\norigin_node_type=SDP\r\norigin_node_id=ws027-23\r\ntransaction_id=91151073575552657094\r\ntransaction_date_time=2012-03-29T16:20:20+02:00\r\noperation=GET\r\nBlock=Subscriber\r\nBlock=UsageCounterAndThreshold\r\n"
+2012/Mar/29 16:20:20.198586 34 - f_SDPAM_Client_Transactions: Message received on SDPAM_PCO: 
+{
+  succ_response_get_52 := {
+    default_header := {
+      response_date_time := "2012-03-29T16:20:20+02:00"
+    },
+    master := "9352001",
+    currency := 0,
+    master_subordinate_flag := 0,
+    service_class := 9999,
+    orig_service_class := omit,
+    sdp_language := 1,
+    flags_before := "10000000",
+    flags_after := "10000000",
+    temp_blocked_flag := omit,
+    blocks := {
+      {
+        block_subscriber_resp := {
+          temp_service_class_exp_date := omit,
+          community_id_list := omit,
+          sfee_exp_date := "2012-04-08",
+          sup_exp_date := "2012-04-10",
+          max_servicefee_period := 200,
+          max_supervision_period := 200,
+          credit_clearance_grace_period := 0,
+          serv_removal_grace_period := 0,
+          neg_balance_barring_date := omit,
+          activation_date := "2012-03-29",
+          refill_unbar_date_time := omit,
+          refill_fraud_counter := 0,
+          first_ivr_call_flag := 0,
+          prom_notification_code := omit,
+          hlr_blocking_state := "00111",
+          ussd_eocn_selection_id := 255,
+          account_balance := "95960",
+          aggregated_balance := omit,
+          pin_code := omit,
+          sc_change_unbar_date := omit,
+          account_home_region := omit,
+          account_group_id := 0,
+          service_offerings := 0,
+          promotion_plan_id := omit,
+          promotion_start_date := omit,
+          promotion_end_date := omit,
+          prom_refill_value := omit,
+          prom_refill_counter := omit,
+          prom_progress_value := omit,
+          prom_progress_counter := omit,
+          active_days := omit,
+          account_time_zone := omit
+        }
+      },
+      {
+        block_usagecounterandthreshold_resp := {
+          usagecounterandthreshold_members := {
+            {
+              usage_counter_id := 101,
+              usage_counter_product_id := 1,
+              usage_counter_value := "5000000000",
+              number_of_decimals := omit,
+              usage_value_type := 1,
+              usagecounterandthreshold_threshold_members := {
+                {
+                  usage_threshold_id := 102,
+                  usage_threshold_value := "25000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                },
+                {
+                  usage_threshold_id := 101,
+                  usage_threshold_value := "5000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                }
+              },
+              associated_party_id := omit
+            },
+            {
+              usage_counter_id := 101,
+              usage_counter_product_id := 2,
+              usage_counter_value := "2600000000",
+              number_of_decimals := omit,
+              usage_value_type := 1,
+              usagecounterandthreshold_threshold_members := {
+                {
+                  usage_threshold_id := 102,
+                  usage_threshold_value := "25000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                },
+                {
+                  usage_threshold_id := 101,
+                  usage_threshold_value := "5000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                }
+              },
+              associated_party_id := omit
+            },
+            {
+              usage_counter_id := 101,
+              usage_counter_product_id := 3,
+              usage_counter_value := "5000000000",
+              number_of_decimals := omit,
+              usage_value_type := 1,
+              usagecounterandthreshold_threshold_members := {
+                {
+                  usage_threshold_id := 102,
+                  usage_threshold_value := "25000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                },
+                {
+                  usage_threshold_id := 101,
+                  usage_threshold_value := "5000000000",
+                  number_of_decimals := omit,
+                  usage_threshold_source := 3
+                }
+              },
+              associated_party_id := omit
+            }
+          }
+        }
+      }
+    }
+  }
+}
+2012/Mar/29 16:20:20.202112 34 - CLIENT_END_OF_TRANSACTION=PASS
+
+2012/Mar/29 16:20:20.202320 mtc - Stopping SDPAM mapping component
+2012/Mar/29 16:20:20.202454 34 - f_SDPAM_Client_Transactions: Number of successful messages, 1 (1)
+2012/Mar/29 16:20:20.202547 34 - setverdict(pass): none -> pass
+2012/Mar/29 16:20:20.202628 34 - CLIENT_END_OF_TRANSACTIONS=PASS
+2012/Mar/29 16:20:22.202674 34 - f_DisconnectMapping: WARNING. Timeout waiting for 'DISCONNECT_OK'.
+2012/Mar/29 16:20:22.204721 19 - Final verdict of PTC: pass
+2012/Mar/29 16:20:22.204728 20 - Final verdict of PTC: pass
+2012/Mar/29 16:20:22.204796 29 - Final verdict of PTC: pass
+2012/Mar/29 16:20:22.204804 34 - Final verdict of PTC: pass
+2012/Mar/29 16:20:22.204806 33 - Final verdict of PTC: pass
+2012/Mar/29 16:20:22.204811 23 - Final verdict of PTC: none
+2012/Mar/29 16:20:22.204813 30 - Final verdict of PTC: pass
+2012/Mar/29 16:20:22.204817 25 - Final verdict of PTC: none
+2012/Mar/29 16:20:22.204839 28 - Final verdict of PTC: none
+2012/Mar/29 16:20:22.204893 32 - Final verdict of PTC: none
+2012/Mar/29 16:20:22.205965 mtc - Setting final verdict of the test case.
+2012/Mar/29 16:20:22.206042 mtc - Local verdict of MTC: pass
+2012/Mar/29 16:20:22.206077 mtc - Local verdict of PTC Measurement(3): none (pass -> pass)
+2012/Mar/29 16:20:22.206109 mtc - Local verdict of PTC with component reference 4: pass (pass -> pass)
+2012/Mar/29 16:20:22.206140 mtc - Local verdict of PTC with component reference 5: pass (pass -> pass)
+2012/Mar/29 16:20:22.206189 mtc - Local verdict of PTC with component reference 6: pass (pass -> pass)
+2012/Mar/29 16:20:22.206221 mtc - Local verdict of PTC with component reference 7: pass (pass -> pass)
+2012/Mar/29 16:20:22.206251 mtc - Local verdict of PTC with component reference 8: pass (pass -> pass)
+2012/Mar/29 16:20:22.206280 mtc - Local verdict of PTC with component reference 9: pass (pass -> pass)
+2012/Mar/29 16:20:22.206311 mtc - Local verdict of PTC with component reference 10: pass (pass -> pass)
+2012/Mar/29 16:20:22.206353 mtc - Local verdict of PTC with component reference 11: pass (pass -> pass)
+2012/Mar/29 16:20:22.206392 mtc - Local verdict of PTC with component reference 12: pass (pass -> pass)
+2012/Mar/29 16:20:22.206441 mtc - Local verdict of PTC with component reference 13: pass (pass -> pass)
+2012/Mar/29 16:20:22.206485 mtc - Local verdict of PTC with component reference 14: pass (pass -> pass)
+2012/Mar/29 16:20:22.206516 mtc - Local verdict of PTC with component reference 15: pass (pass -> pass)
+2012/Mar/29 16:20:22.206547 mtc - Local verdict of PTC with component reference 16: pass (pass -> pass)
+2012/Mar/29 16:20:22.206598 mtc - Local verdict of PTC with component reference 17: pass (pass -> pass)
+2012/Mar/29 16:20:22.206679 mtc - Local verdict of PTC with component reference 18: pass (pass -> pass)
+2012/Mar/29 16:20:22.206724 mtc - Local verdict of PTC with component reference 19: pass (pass -> pass)
+2012/Mar/29 16:20:22.206756 mtc - Local verdict of PTC with component reference 20: pass (pass -> pass)
+2012/Mar/29 16:20:22.206787 mtc - Local verdict of PTC with component reference 21: none (pass -> pass)
+2012/Mar/29 16:20:22.206824 mtc - Local verdict of PTC with component reference 22: pass (pass -> pass)
+2012/Mar/29 16:20:22.206857 mtc - Local verdict of PTC with component reference 23: none (pass -> pass)
+2012/Mar/29 16:20:22.206889 mtc - Local verdict of PTC with component reference 24: pass (pass -> pass)
+2012/Mar/29 16:20:22.206919 mtc - Local verdict of PTC with component reference 25: none (pass -> pass)
+2012/Mar/29 16:20:22.206952 mtc - Local verdict of PTC with component reference 26: pass (pass -> pass)
+2012/Mar/29 16:20:22.206997 mtc - Local verdict of PTC with component reference 27: pass (pass -> pass)
+2012/Mar/29 16:20:22.207088 mtc - Local verdict of PTC with component reference 28: none (pass -> pass)
+2012/Mar/29 16:20:22.207129 mtc - Local verdict of PTC with component reference 29: pass (pass -> pass)
+2012/Mar/29 16:20:22.207164 mtc - Local verdict of PTC with component reference 30: pass (pass -> pass)
+2012/Mar/29 16:20:22.207199 mtc - Local verdict of PTC with component reference 31: pass (pass -> pass)
+2012/Mar/29 16:20:22.207243 mtc - Local verdict of PTC with component reference 32: none (pass -> pass)
+2012/Mar/29 16:20:22.207288 mtc - Local verdict of PTC with component reference 33: pass (pass -> pass)
+2012/Mar/29 16:20:22.207333 mtc - Local verdict of PTC with component reference 34: pass (pass -> pass)
+2012/Mar/29 16:20:22.207382 mtc - Test case tc_CS50_CIPIP_OfferDrivenRating_STD_8514_Select_Higher_Prio_Offer_When_TimeOfDay_Condition_Get_Valid finished. Verdict: pass
+2012/Mar/29 16:20:22.207791 mtc - Verdict statistics: 0 none (0.00 %), 1 pass (100.00 %), 0 inconc (0.00 %), 0 fail (0.00 %), 0 error (0.00 %).
+2012/Mar/29 16:20:22.207864 mtc - Test execution summary: 1 test case was executed. Overall verdict: pass
